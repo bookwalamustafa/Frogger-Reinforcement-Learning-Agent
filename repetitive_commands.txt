@@ -1,0 +1,17 @@
+python3 main.py --player=agent --screen=easy --steps=100 --speed=fast
+python3 main.py --player=agent --screen=easy --steps=100 --speed=fast
+python3 main.py --player=agent --screen=easy --steps=100 --speed=fast
+python3 main.py --player=agent --screen=easy --steps=100 --speed=fast
+python3 main.py --player=agent --screen=easy --steps=100 --speed=fast
+
+python3 main.py --player=agent --screen=medium --steps=100 --speed=fast
+python3 main.py --player=agent --screen=medium --steps=100 --speed=fast
+python3 main.py --player=agent --screen=medium --steps=100 --speed=fast
+python3 main.py --player=agent --screen=medium --steps=100 --speed=fast
+python3 main.py --player=agent --screen=medium --steps=100 --speed=fast
+
+python3 main.py --player=agent --screen=hard --steps=100 --speed=fast
+python3 main.py --player=agent --screen=hard --steps=100 --speed=fast
+python3 main.py --player=agent --screen=hard --steps=100 --speed=fast
+python3 main.py --player=agent --screen=hard --steps=100 --speed=fast
+python3 main.py --player=agent --screen=hard --steps=100 --speed=fast
